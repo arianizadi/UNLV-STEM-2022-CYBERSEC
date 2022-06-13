@@ -1,4 +1,4 @@
-## [**Welcome to the Cybersecurity Spring 2022 STEM Saturday Camp!**](https://register.edoutreach.unlv.edu/wconnect/CourseStatus.awp?&course=221RG1036)  
+## [**Welcome to the Cybersecurity Summer 2022 STEM Saturday Camp!**]()  
 ![UNLV Logo](/Images/UNLVEducationalOutreach.jpg)  
 
 ---
@@ -9,44 +9,41 @@ Want to crack your neighbor's WiFi, with consent of course? Or how about find ou
 ---
 
 ## Class Information  
-**Teacher Name**: Garcia J, Angel   
-**Class Location**: TBE-B 348  
-**Morning Class**: 09:45am - 11:15pm  
-**Afternoon Class**: 01:45pm - 03:15pm  
+**Instructor**: Garcia J, Angel  
+**Co-Instructor**: Izadi, Arian  
+**Class Location**: TBE-B 350  
+**Morning Class**: 09:30am - 11:45pm  
+**Afternoon Class**: 01:00pm - 03:15pm  
 
 ---
 
 ## Course Subjects w/Dates
-- [x] 01/29 - Course Introduction/OSINT
-- [x] 02/05 - Networking
-- [x] 02/12 - Vulnerabilities w/Networking Devices
-- [x] 02/26 - Kali Linux Tools & Operating Systems
-- [x] 03/05 - Hardware for Cybersecurity
-- [x] 03/19 - Encryption/Decryption & Password Cracking
-- [x] 04/09 - Spoofing & Social Engineering
-- [x] 04/23 - Programming Languages
-- [x] 04/30 - Scripting   
-- [x] 05/07 - Capture the Flag Game/Presentation 
+- [ ] 06/14 - OSINT
+- [ ] 06/16 - Encryption/Decryption & Password Cracking
+- [ ] 06/20 - TBA  
+- [ ] 06/22 - TBA  
+- [ ] 06/24 - TBA  
+- [ ] 06/28 - TBA  
+- [ ] 06/30 - TBA
+- [ ] 07/01 - TBA  
 
 ---
 
 ## Important Files
 ### Class Setup
-- [Syllabus](https://docs.google.com/document/d/1AStwEkC9qH11J0lerE6M9qpj5xq7K2QB/edit?usp=sharing&ouid=100740006076809155777&rtpof=true&sd=true)
+- [Syllabus](pending)
 
 ### Class Slides
-- [01/29](https://docs.google.com/presentation/d/1HwR5L5xPSL9llN19bY38S2mRObvdvpfbcyhxqpxnOxg/edit?usp=sharing)
-- 02/05 - No Slides
-- [02/12](https://docs.google.com/presentation/d/1b7qyU-7ao-WI9gTtiZARNtENHiU6KxXnMVsiyyb5xWg/edit?usp=sharing)
-- [02/26](https://docs.google.com/presentation/d/1ubVvI_ZnP4D22NNsuO2HCDr-_4KM3SZFDGNtJ75X4GE/edit?usp=sharing)
-- [03/05](https://docs.google.com/presentation/d/1qQiZE04u05LQOYQG2CQ9tE_muOJ1Qi-0yOsXTRvdGM0/edit?usp=sharing)
-- [03/19](https://docs.google.com/presentation/d/1VsPO1Xlj8m-FsCKp_z2n3GeL5U6B0ZwSDB5KI3iaz8I/edit?usp=sharing)
-- [04/09](https://docs.google.com/presentation/d/1wEbVRBGGMKXuW0VU6fdB_PsMlU0S-qmOi_ZwCJj3bwE/edit?usp=sharing)
-- [04/23](https://docs.google.com/presentation/d/1ifUtnkfyFtlJNziubPY0d8v8yhaPIEfQZvtwwzGV2to/edit?usp=sharing)
-- [04/30](https://docs.google.com/presentation/d/153nsmDJJrzys1VQgXMiYffppkPRXnoDYu1hzWC0QHnQ/edit?usp=sharing)
-- [05/07](https://docs.google.com/presentation/d/175GAGsh8cAxbDCY610qsFj4DBkgpgnnFphQJUJy1Bdc/edit?usp=sharing)
+- [06/14]()
+- [06/16]()
+- [06/20]()
+- [06/22]()
+- [06/24]()
+- [06/28]()
+- [06/30]()
+- [07/01]()
 
 ---
 
 ### Support or Contact
-If needed I may be contacted at **garciaj@unlv.nevada.edu** or a message can be sent on the [**discord server**](https://discord.gg/uuZw7zxcB4)
+If needed you may be contact the instructors at **garciaj@unlv.nevada.edu**, **izadia1@unlv.nevada.edu**, or just send a message through the [**discord server**](pending)!
