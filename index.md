@@ -34,7 +34,7 @@ Want to crack your neighbor's WiFi, with consent of course? Or how about find ou
 - [Syllabus](pending)
 
 ### Class Slides
-- [06/14]()
+- [06/14](https://docs.google.com/presentation/d/1P4nQEhX7d_d0Hi5SFE5ZSfrhnD1mbj6fOTgsEFp7dVo/edit?usp=sharing)
 - [06/16]()
 - [06/20]()
 - [06/22]()
