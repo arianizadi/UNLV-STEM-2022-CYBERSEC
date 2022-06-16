@@ -35,7 +35,7 @@ Want to crack your neighbor's WiFi, with consent of course? Or how about find ou
 
 ### Class Slides
 - [06/14](https://docs.google.com/presentation/d/1P4nQEhX7d_d0Hi5SFE5ZSfrhnD1mbj6fOTgsEFp7dVo/edit?usp=sharing)
-- [06/16]()
+- [06/16](https://docs.google.com/presentation/d/1STzM6mt_ykl5maudRKw7twY3pQnvsQN_CnhiHdSUpW0/edit#slide=id.g13341e68f3f_0_0)
 - [06/20]()
 - [06/22]()
 - [06/24]()
