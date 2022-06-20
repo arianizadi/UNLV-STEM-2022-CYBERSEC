@@ -9,23 +9,23 @@ Want to crack your neighbor's WiFi, with consent of course? Or how about find ou
 ---
 
 ## Class Information
-**Instructor**: Garcia J, Angel
-**Co-Instructor**: Izadi, Arian
-**Class Location**: TBE-B 350
-**Morning Class**: 09:30am - 11:45am
-**Afternoon Class**: 01:00pm - 03:15pm
+**Instructor**: Garcia J, Angel  
+**Co-Instructor**: Izadi, Arian  
+**Class Location**: TBE-B 350  
+**Morning Class**: 09:30am - 11:45am  
+**Afternoon Class**: 01:00pm - 03:15pm  
 
 ---
 
 ## Course Subjects w/Dates
-- [ ] 06/14 - OSINT
-- [ ] 06/16 - Encryption/Decryption & Password Cracking
-- [ ] 06/20 - TBA
+- [x] 06/14 - OSINT
+- [x] 06/16 - Encryption/Decryption & Password Cracking
+- [ ] 06/20 - Networking
 - [ ] 06/22 - TBA
 - [ ] 06/24 - TBA
 - [ ] 06/28 - TBA
 - [ ] 06/30 - TBA
-- [ ] 07/01 - TBA
+- [ ] 07/01 - Project Day
 
 ---
 
@@ -35,15 +35,15 @@ Want to crack your neighbor's WiFi, with consent of course? Or how about find ou
 
 ### Class Slides
 - [06/14](https://docs.google.com/presentation/d/1P4nQEhX7d_d0Hi5SFE5ZSfrhnD1mbj6fOTgsEFp7dVo/edit?usp=sharing)
-- [06/16](https://docs.google.com/presentation/d/1STzM6mt_ykl5maudRKw7twY3pQnvsQN_CnhiHdSUpW0/edit#slide=id.g13341e68f3f_0_0)
-- [06/20]()
-- [06/22]()
-- [06/24]()
-- [06/28]()
-- [06/30]()
-- [07/01]()
+- [06/16](https://docs.google.com/presentation/d/1STzM6mt_ykl5maudRKw7twY3pQnvsQN_CnhiHdSUpW0/edit?usp=sharing)
+- [06/20](https://docs.google.com/presentation/d/1swLjgFLfns97WF5vhC29Mf9Yq5dxXyDx7NQmdLTzZ2o/edit?usp=sharing)
+- [06/22](/)
+- [06/24](/)
+- [06/28](/)
+- [06/30](/)
+- 07/01 - No Slides
 
 ---
 
 ### Support or Contact
-If needed you may be contact the instructors at **garciaj@unlv.nevada.edu**, **izadia1@unlv.nevada.edu**, or just send a message through the [**discord server**](pending)!
+If needed you may be contact the instructors at **garciaj@unlv.nevada.edu**, **izadia1@unlv.nevada.edu**, or just send a message through the **discord server**(pending...)!  
