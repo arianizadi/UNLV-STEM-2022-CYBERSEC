@@ -21,8 +21,8 @@ Want to crack your neighbor's WiFi, with consent of course? Or how about find ou
 - [x] 06/14 - OSINT
 - [x] 06/16 - Encryption/Decryption & Password Cracking
 - [X] 06/20 - Networking
-- [ ] 06/22 - Physical Security
-- [ ] 06/24 - Website Hacking
+- [x] 06/22 - Physical Security
+- [x] 06/24 - Website Hacking
 - [ ] 06/28 - Scripting
 - [ ] 06/30 - CTF
 - [ ] 07/01 - Project Day
@@ -37,9 +37,8 @@ Want to crack your neighbor's WiFi, with consent of course? Or how about find ou
 - [06/14](https://docs.google.com/presentation/d/1P4nQEhX7d_d0Hi5SFE5ZSfrhnD1mbj6fOTgsEFp7dVo/edit?usp=sharing)
 - [06/16](https://docs.google.com/presentation/d/1STzM6mt_ykl5maudRKw7twY3pQnvsQN_CnhiHdSUpW0/edit?usp=sharing)
 - [06/20](https://docs.google.com/presentation/d/1swLjgFLfns97WF5vhC29Mf9Yq5dxXyDx7NQmdLTzZ2o/edit?usp=sharing)
-- [06/22](https://docs.google.com/presentation/d/1DGIG6qFsj8UjrrEK6qpB-Mxb9fpcNRBsvqejUBmKnm8/edit?usp=sharing)  
-<!--
-- [06/24](https://arianizadi.github.io/UNLV-STEM-2022-CYBERSEC/)  
+- [06/22](https://docs.google.com/presentation/d/1DGIG6qFsj8UjrrEK6qpB-Mxb9fpcNRBsvqejUBmKnm8/edit?usp=sharing)
+- [06/24](https://docs.google.com/presentation/d/1nazgkrd2P5E-PZqtI7TxRWX-R6hfIB43tOkZDgYovCM/edit?usp=sharing)  
 - [06/28](https://arianizadi.github.io/UNLV-STEM-2022-CYBERSEC/)  
 - [06/30](https://arianizadi.github.io/UNLV-STEM-2022-CYBERSEC/)  
 - 07/01 - No Slides  
