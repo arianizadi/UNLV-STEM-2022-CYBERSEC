@@ -24,14 +24,12 @@ Want to crack your neighbor's WiFi, with consent of course? Or how about find ou
 - [x] 06/22 - Physical Security
 - [x] 06/24 - Website Hacking
 - [x] 06/28 - Scripting
-- [ ] 06/30 - CTF
+- [x] 06/30 - CTF
 - [ ] 07/01 - Project Day
 
 ---
 
 ## Important Files
-### Class Setup
-- [Syllabus](pending)
 
 ### Class Slides
 - [06/14](https://docs.google.com/presentation/d/1P4nQEhX7d_d0Hi5SFE5ZSfrhnD1mbj6fOTgsEFp7dVo/edit?usp=sharing)
@@ -40,7 +38,7 @@ Want to crack your neighbor's WiFi, with consent of course? Or how about find ou
 - [06/22](https://docs.google.com/presentation/d/1DGIG6qFsj8UjrrEK6qpB-Mxb9fpcNRBsvqejUBmKnm8/edit?usp=sharing)
 - [06/24](https://docs.google.com/presentation/d/1nazgkrd2P5E-PZqtI7TxRWX-R6hfIB43tOkZDgYovCM/edit?usp=sharing)  
 - [06/28](https://docs.google.com/presentation/d/1y7aAjYwNR-rC2mPZPPNhtVg5qCeyglhSrDUB_cbjOz4/edit?usp=sharing)  
-- [06/30](https://arianizadi.github.io/UNLV-STEM-2022-CYBERSEC/)  
+- [06/30](https://docs.google.com/presentation/d/1Y0m-T_DiY2z-rE7EU5lELpVdIe-jnqfjlozcWR3kWno/edit?usp=sharing)  
 - 07/01 - No Slides  
 
 ---
